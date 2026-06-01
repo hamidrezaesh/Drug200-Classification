@@ -12,3 +12,5 @@ Used KNN, Decision Tree, and Random Forest to classify patients in the Drug200 d
 
 # 📄 License
 This project is licensed under the [MIT License](https://github.com/hamidrezaesh/Drug200-Classification/blob/main/LICENSE).
+
+Made by [Hamidreza](https://github.com/hamidrezaesh)
